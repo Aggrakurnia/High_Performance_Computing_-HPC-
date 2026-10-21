@@ -2,15 +2,13 @@
 
 Repositori ini berisi implementasi kode, latihan pemrograman paralel, dan analisis performa untuk mata kuliah **High Performance Computing (HPC)**.
 
-## 📌 Isi Notebook (`High_Performance_Computing_(HPC)_(2).ipynb`)
-- **Konsep Pemrograman Paralel**: Implementasi multithreading / paralelisasi tugas untuk mengoptimalkan penggunaan CPU.
-- **Pengujian Performa**: Perbandingan waktu eksekusi (*execution time*) antara algoritma sekuensial dan paralel.
-- **Analisis Scalability**: Evaluasi *speedup* dan efisiensi komputasi berdasarkan variasi jumlah *thread* / *core*.
+## 📁 Struktur Repositori
+- `High_Performance_Computing_(HPC)_(2).ipynb` : Jupyter Notebook berisi eksperimen, kode pemrograman paralel, serta analisis performa.
 
-## 🛠️ Teknologi & Tools
-- **Bahasa**: Python / C / C++
+## 🛠️ Teknologi & Tool
+- **Bahasa**: Python / C / C++ (sesuaikan dengan kode Anda)
+- **Library/Framework**: OpenMP, MPI, CUDA, atau OpenCL (sesuaikan)
 - **Environment**: Jupyter Notebook / Google Colab
-- **Library**: `time`, `multiprocessing` / `threading`, `matplotlib` (untuk visualisasi)
 
 ## 🚀 Cara Menjalankan
 1. Clone repositori ini:
