@@ -16,7 +16,7 @@ Repositori ini berisi materi, kode implementasi, dan analisis eksperimen untuk m
 - **Environment**: Jupyter Notebook / Google Colab
 - **Library**: `time`, `multiprocessing` / `threading`, `matplotlib` (untuk analisis visual)
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 1. Clone repositori ini:
    ```bash
    git clone [https://github.com/Aggrakurnia/High_Performance_Computing_-HPC-.git](https://github.com/Aggrakurnia/High_Performance_Computing_-HPC-.git)
